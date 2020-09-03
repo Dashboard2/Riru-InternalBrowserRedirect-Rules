@@ -31,6 +31,14 @@
     {
       "packageName": "com.tencent.androidqqmail",
       "version": 1
+    },
+    {
+      "packageName": "com.zhihu.android",
+      "version": 1
+    },
+    {
+      "packageName": "com.weico.international",
+      "version": 1
     }
   ]
 }
