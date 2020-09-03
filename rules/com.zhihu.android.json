@@ -1,0 +1,14 @@
+{
+    "tag": "Zhihu",
+    "authors": "LoveSy",
+    "rules": [
+        {
+            "tag": "default",
+            "url-source": "intent://data/zh_url/target",
+            "url-filter": {
+                "ignore": ".*zhihu\\.com.*",
+                "force": ".*link\\.zhihu\\.com.*"
+            }
+        }
+    ]
+}
